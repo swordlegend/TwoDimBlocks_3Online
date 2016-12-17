@@ -1,0 +1,14 @@
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\TwoDimBlocks.exe.config
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\TwoDimBlocks.exe
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\TwoDimBlocks.pdb
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\Lidgren.Network.dll
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\protobuf-net.dll
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\UnityEngine.dll
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\Lidgren.Network.pdb
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\Lidgren.Network.xml
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\protobuf-net.pdb
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\protobuf-net.xml
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\bin\Debug\UnityEngine.xml
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\obj\Debug\TwoDimBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\obj\Debug\TwoDimBlocks.exe
+C:\Users\Yas\dev\C#\TwoDimBlocks\TwoDimBlocks\obj\Debug\TwoDimBlocks.pdb
